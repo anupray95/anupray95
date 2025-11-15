@@ -1,18 +1,14 @@
-# 🌟 Anup Ray
-### 🚀 Senior Software Engineer
+# ✨ Anup Ray
+### 🔧 Senior Software Engineer
 
-I build **fast, scalable backends** and ship **production GenAI features** — RAG, vector search, AI agents, automation.
+I build **fast, scalable backends** and ship real **GenAI features** (RAG, vector search, AI agents). ⚡
 
-## ⚙️ Tech Stack
-**Node.js** • **React** • **LangChain** • **OpenAI** • **MongoDB** • **AWS**
+**Core:** 🟩 Node.js • ⚛️ React • 🔗 LangChain • 🤖 OpenAI • 🍃 MongoDB • ☁️ AWS
 
-## 💼 Experience Impact
-- Built enterprise GenAI systems (RAG, vector search, document intelligence)
-- Optimized infra & backend performance for real-world applications
+**Work:** 🚀 Built enterprise GenAI systems, optimized infra, delivered high-impact backend features.
 
-## 🏆 Achievements
-🏅 Hackathon Winner • 🎖️ AWS Badge • ⭐ 6-Star HackerRank
+**Project:** 📘 MCP Book Price Fetcher — clean, fast, multi-source API.
 
-## 📫 Connect
-📧 rayanup95@gmail.com  
-🔗 linkedin.com/in/anup-ray-dev
+**Wins:** 🏆 Hackathon Winner • 🎖️ AWS Certified • ⭐ 6★ HackerRank
+
+**Contact:** 📧 rayanup95@gmail.com | 🔗 linkedin.com/in/anup-ray-dev
