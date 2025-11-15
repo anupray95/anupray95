@@ -1,21 +1,18 @@
-# Hi, I'm Anup Ray
-### Full-Stack & Generative AI Engineer
+# 🌟 Anup Ray
+### 🚀 Senior Software Engineer
 
-I build scalable backend systems and production-ready AI features using Node.js, React, and RAG.
+I build **fast, scalable backends** and ship **production GenAI features** — RAG, vector search, AI agents, automation.
 
-## Skills
-Node.js • React • LangChain • OpenAI • Bedrock • MongoDB • AWS
+## ⚙️ Tech Stack
+**Node.js** • **React** • **LangChain** • **OpenAI** • **MongoDB** • **AWS**
 
-## Experience
-**Applaud Solutions** — GenAI features, RAG pipelines, backend optimization.  
-**TCS** — Node.js chatbot backend, Azure LUIS, performance tuning.
+## 💼 Experience Impact
+- Built enterprise GenAI systems (RAG, vector search, document intelligence)
+- Optimized infra & backend performance for real-world applications
 
-## Project
-**MCP Book Price Fetcher** — Multi‑source pricing API using Node.js + TypeScript.
+## 🏆 Achievements
+🏅 Hackathon Winner • 🎖️ AWS Badge • ⭐ 6-Star HackerRank
 
-## Highlights
-AWS Serverless Badge • Hackathon Winner • 6‑Star HackerRank
-
-## Contact
-Email: rayanup95@gmail.com  
-LinkedIn: linkedin.com/in/anup-ray-dev
+## 📫 Connect
+📧 rayanup95@gmail.com  
+🔗 linkedin.com/in/anup-ray-dev
