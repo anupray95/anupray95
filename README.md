@@ -7,8 +7,6 @@ I build **fast, scalable backends** and ship real **GenAI features** (RAG, vecto
 
 **Work:** 🚀 Built enterprise GenAI systems, optimized infra, delivered high-impact backend features.
 
-**Project:** 📘 MCP Book Price Fetcher — clean, fast, multi-source API.
-
 **Wins:** 🏆 Hackathon Winner • 🎖️ AWS Certified • ⭐ 6★ HackerRank
 
 **Contact:** 📧 rayanup95@gmail.com | 🔗 linkedin.com/in/anup-ray-dev
