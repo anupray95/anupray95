@@ -12,24 +12,26 @@ I work as a **Senior Software Engineer** focused on building **fast, scalable ba
 
 ## Languages and Tools
 
-`Node.js`  
-`TypeScript`  
-`JavaScript`  
-`React`  
-`Express.js`  
-`MongoDB`  
-`AWS`  
-`LangChain`  
-`OpenAI`   
-`Git`  
+`Node.js` `TypeScript` `Generative AI` `JavaScript` `React` `Express.js` `MongoDB` `AWS` `Git`  
 
 ---
 
 ## Connect With Me
 
-**Twitter:** https://x.com/rayanup107  
-**Email:** rayanup95@gmail.com  
-**LinkedIn:** https://linkedin.com/in/anup-ray-dev  
+<table>
+    <div align="center m-5" >
+        <a href="https://x.com/rayanup107 ">
+        <img align="left" alt="AnupTwitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+        </a>
+        <a href="https://www.linkedin.com/in/anup-ray-dev/">
+        <img align="left" alt="AnupLinkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+        </a>
+        <a href="https://medium.com/@rayanup107">
+        <img align="left" alt="AnupRayMedium" width="22px" height="22px"            src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg" />
+        </a>                                                                                                                                            
+      </div>                                                                                                                 
+</table>
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=rayanup107&color=79FFE1)  
 ![Twitter Follow](https://img.shields.io/twitter/follow/rayanup107?style=social)
