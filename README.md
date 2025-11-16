@@ -36,3 +36,4 @@ I work as a **Senior Software Engineer** focused on building **fast, scalable ba
 
 ![Profile views](https://komarev.com/ghpvc/?username=rayanup107&color=79FFE1)  
 ![Twitter Follow](https://img.shields.io/twitter/follow/rayanup107?style=social)
+[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=#6C63FF">](mailto:rayanup95@gmail.com)
