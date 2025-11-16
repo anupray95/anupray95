@@ -27,7 +27,7 @@ I work as a **Senior Software Engineer** focused on building **fast, scalable ba
         <img align="left" alt="AnupLinkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
         </a>
         <a href="https://medium.com/@rayanup107">
-        <img align="left" alt="AnupRayMedium" width="22px" height="22px"            src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg" />
+        <img align="left" alt="AnupRayMedium" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
         </a>                                                                                                                                            
       </div>                                                                                                                 
 </table>
