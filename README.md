@@ -3,10 +3,10 @@
 
 I work as a **Senior Software Engineer** focused on building **fast, scalable backend systems** and delivering production-grade **GenAI features** like RAG pipelines, vector search, and AI agents ⚡.
 
-- 🟩 **Core Skills:** Node.js, React, LangChain, OpenAI, MongoDB, AWS  
+- 🟩 **Core Skills:** Node.js, React, Python, MongoDB, AWS  
 - 🚀 **Work:** Built enterprise-level GenAI systems, optimized backend infra, and shipped high-impact features  
 - 🏆 **Wins:** Hackathon Winner, AWS Certified, 6★ HackerRank  
-- 🦄 **Focus Areas:** Distributed systems, AI engineering, performance optimization  
+- 🦄 **Focus Areas:** AI engineering, performance optimization  
 
 ---
 
@@ -31,7 +31,8 @@ I work as a **Senior Software Engineer** focused on building **fast, scalable ba
         </a>                                                                                                                                            
       </div>                                                                                                                 
 </table>
+<br>
+<br>
 
-
-![Profile views](https://komarev.com/ghpvc/?username=rayanup107&color=79FFE1)  
+[]![Profile views](https://komarev.com/ghpvc/?username=rayanup107&color=79FFE1)  
 ![Twitter Follow](https://img.shields.io/twitter/follow/rayanup107?style=social)
