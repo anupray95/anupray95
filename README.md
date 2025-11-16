@@ -1,4 +1,4 @@
-## Hey 👋, I am **Anup Ray**![gif](https://user-images.githubusercontent.com/54095539/126079328-4b402dcb-b1fb-4988-b75f-25e24d048d60.gif)
+## Hey 👋, I am **Anup Ray**[<img width="3%" src="https://user-images.githubusercontent.com/54095539/126079328-4b402dcb-b1fb-4988-b75f-25e24d048d60.gif">](https://www.lofibolly.club/)
 
 
 I work as a **Senior Software Engineer** focused on building **fast, scalable backend systems** and delivering production-grade **GenAI features** like RAG pipelines, vector search, and AI agents ⚡.
