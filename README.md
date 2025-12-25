@@ -12,7 +12,7 @@ I work as a **Senior Software Engineer** focused on building **fast, scalable ba
 
 ## Languages and Tools
 
-`Node.js` `TypeScript` `Generative AI` `JavaScript` `React` `Express.js` `MongoDB` `AWS` `Git`  
+`Node.js` `Python` `Generative AI` `JavaScript` `React` `Express.js` `MongoDB` `AWS` `Git`  
 
 ---
 
